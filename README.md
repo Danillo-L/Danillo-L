@@ -18,8 +18,6 @@
 
 My name is Danillo de Lacerda Gomes dos Santos, I'm 17 years old, and I live in São Paulo, Brazil. I am currently studying Analysis and Systems Development at ETEC. I am always looking to expand my knowledge in technology, learning new programming languages and development tools.
 
-<br>
-
 ### Tools I Use:
   <img 
     align="left"
